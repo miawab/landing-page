@@ -49,12 +49,13 @@ a{
     min-width: 380px;
     flex: 0;
     flex-grow: 1/2;
+    margin-right:33px;
 }
 
 .first-right {
     padding: 100px 40px;
     flex: 0;
-    flex-grow: 1/2;
+    flex-grow: 1;
 }
 
 .first-left > h1 {
