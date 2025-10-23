@@ -131,10 +131,12 @@ button{
     font-size:36px ;
     color: #464748;
 }
+
 .third.main >em {
     text-align: center;
     font-weight: 300;
 }
+
 .third.main > #smaller {
     text-align: center;
     font-weight: 900;
@@ -143,5 +145,31 @@ button{
 
 }
 
+.fourth.main {
+    padding: 100px 130px;
 
+}
+
+.bar {
+    background-color: #3882f6;
+    display: flex;
+    min-height: 160px;
+    border:#3882f6 solid;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.bar-main> p {
+    color: #E5E7EB;
+}
+
+.bar>button {
+    border: #E5E7EB solid 2px;
+}
+.bar-main> #larger {
+    font-size: 24px;
+    font-weight: 900;
+}
 
