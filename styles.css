@@ -127,6 +127,21 @@ button{
 
 .third.main {
     background-color: #E5E7EB;
-    padding: 100px;
+    padding: 120px 220px;
+    font-size:36px ;
+    color: #464748;
 }
+.third.main >em {
+    text-align: center;
+    font-weight: 300;
+}
+.third.main > #smaller {
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+    justify-self: flex-end;
+
+}
+
+
 
