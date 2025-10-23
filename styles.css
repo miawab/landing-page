@@ -173,3 +173,10 @@ button{
     font-weight: 900;
 }
 
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    padding: 35px;
+    color:#f9faf8;
+    font-size: 110%;
+}
